@@ -1,4 +1,4 @@
-# 44x17 Gear
+# 38x23 Gear
 
 <img src="../docs/38x23images/001.png" height="480" align="center">
 <img src="../docs/38x23images/002.png" height="480" align="center">
